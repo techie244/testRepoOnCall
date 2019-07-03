@@ -1,1 +1,1 @@
-I am master Commit Version 1 This is bug branch1 Commit version 2
+I am master Commit Version 1 This is git commit bug branch 2 version 2
